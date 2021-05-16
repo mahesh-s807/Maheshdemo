@@ -21,7 +21,7 @@ public class Check {
 		System.out.println(al.getText());
 		al.accept();
 		//al.dismiss();
-		
+		System.out.println("mahesh");
 		
 	}
 	}
